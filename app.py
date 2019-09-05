@@ -6,9 +6,9 @@ import plotly.graph_objs as go
 ########### Define your variables ######
 myheading = "What's your favorite Dunkin' Donut?"
 mytitle = "Top 3 Flavors"
-mylabels = ['Chocolate Frosted', 'French Cruller', 'Boston Creme']
-myvalues = [45,25,7]
-color1 = 'e11383'
+mylabels = ['Chocolate Frosted Donut Holes', 'French Cruller', 'Apple Fritter']
+myvalues = [90,5,5]
+color1 = '000000'
 color2 = 'f5821f'
 color3 = '683817'
 tabtitle = 'dunkin'

@@ -4,7 +4,7 @@ import dash_html_components as html
 import plotly.graph_objs as go
 
 ########### Define your variables ######
-myheading = "What's your favorite Dunkin' Donut?"
+myheading = "What's your favorite Damn Donut?"
 mytitle = "Top 3 Flavors"
 mylabels = ['Chocolate Frosted Donut Holes', 'French Cruller', 'Apple Fritter']
 myvalues = [90,5,5]
